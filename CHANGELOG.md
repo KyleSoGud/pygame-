@@ -1,4 +1,4 @@
-# 更新日誌
+[# 更新日誌
 
 《末日機器人》遊戲內更新日誌的整理版，最新版本在最上面。
 格式參考 [Keep a Changelog](https://keepachangelog.com/zh-TW/)，分類為「新增」「調整」「修正」「移除」。
@@ -118,3 +118,4 @@
 
 ### 調整
 - 擴大強化卡牌牌庫。
+](https://github.com/KyleSoGud/pygame-)
