@@ -1,4 +1,28 @@
-日誌
+# 末日機器人 (Doomsday Robot)
+
+類 Rogue 的 2D 射擊遊戲，使用 Python 與 pygame 開發。包含商店、晶片系統，以及「搜打撤」（搜刮、戰鬥、撤離）玩法。
+本專題為三人團隊作品，獲得義守大學智慧科技學院程式設計專題競賽第一名。
+
+## 版本說明
+
+| 版本 | 說明 |
+|---|---|
+| [A-v1.417](https://github.com/KyleSoGud/pygame-/releases/tag/Latest-release) | A 線最終版。 |
+| [team-final](https://github.com/KyleSoGud/pygame-/releases/tag/Team_latest_release) | 團隊整合最終版。 |
+
+完整更新紀錄請見 [CHANGELOG.md](CHANGELOG.md)（v1.03 到 v1.417，依 A1 到 A5 分類）。更早的版本保留在 commit 歷史中，供查閱開發過程。
+
+## 如何執行
+
+1. 到 Releases 下載 zip 並解壓縮。
+2. 安裝 pygame：`pip install pygame`
+3. 在資料夾內執行：`python "pygame A5 v1.417.py"`（團隊版檔名為 `B8.5+A5+C2(優化)整合.py`）
+
+## 分工
+
+- A：A1 到 A5 的功能擴充、強化卡牌、Boss、除錯、遊戲內更新日誌。
+- B：基礎版本、武器、背包、開放地圖。
+- C：任務系統。日誌
 團隊專題我負責 A1 到 A5、更新日誌在CHANGELOG.md、原始專案的連結
 更新日誌是在功能完成後才開始記錄，因此部分早期功能沒有版本紀錄
 **********************************
